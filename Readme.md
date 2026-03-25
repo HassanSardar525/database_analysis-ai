@@ -2,6 +2,8 @@
 
 An intelligent, self-correcting data agent that transforms natural language into actionable business insights. Built with **LangGraph**, **Gemini 3 Flash**, and **Next.js**, this system doesn't just "chat"—it reasons, queries, and visualizes complex car dealership data in real-time.
 
+<img width="2048" height="2078" alt="Gemini_Generated_Image_glse2qglse2qglse" src="https://github.com/user-attachments/assets/9b9aa97b-87f8-4258-9fd7-e06811f378b6" />
+
 ---
 
 ## 🌟 Key Features
