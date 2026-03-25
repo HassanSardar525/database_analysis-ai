@@ -1,4 +1,4 @@
-# 🏎️ DriveData AI: Autonomous Car Dealership Analyst
+#  Autonomous database Analyst
 
 An intelligent, self-correcting data agent that transforms natural language into actionable business insights. Built with **LangGraph**, **Gemini 3 Flash**, and **Next.js**, this system doesn't just "chat"—it reasons, queries, and visualizes complex car dealership data in real-time.
 
